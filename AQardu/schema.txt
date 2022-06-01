@@ -1,0 +1,10 @@
+MQ135:
+A0 -> NodeMCU v3 A0
+D0 -> 
+GND -> NodeMCU v3 GND
+VCC -> NodeMCU v3 3V
+
+DHT11:
+GND -> NodeMCU v3 GND
+VCC -> NodeMCU v3 3V
+Output -> NodeMCU v3 D4
