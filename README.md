@@ -1,5 +1,5 @@
 # AQPtomato
-Air Quality Project
+Home Air Quality Project
 
 
 Arduino + FastApi (AQAtomato) + pandas&co = AQPtomato
