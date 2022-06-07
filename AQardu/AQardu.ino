@@ -17,7 +17,7 @@ String quality ="";
 
 const unsigned long SECOND = 1000;
 const unsigned long HOUR = 3600*SECOND;
-int wait = 3000;
+int wait = 1000;
 
 #define dht_dpin 2
 DHT dht(dht_dpin, DHTTYPE); 
