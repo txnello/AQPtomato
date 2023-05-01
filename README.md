@@ -4,4 +4,4 @@ Home Air Quality Project
 
 Arduino + FastApi (AQAtomato) + pandas&co = AQPtomato
 
-Progress: |███████████████████████████████████████-----| 90.0% Complete
+Progress: |██████████████████████████████████████████████| 100.0% Complete
